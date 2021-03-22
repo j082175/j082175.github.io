@@ -1,5 +1,5 @@
-title: devlopr
-subtitle: A Portfolio Jekyll Theme Built for Developers
+title: Junsoo's developing journey
+subtitle: 엿같지만 해야만 하는 숙명 since 2021.03.22
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
@@ -27,12 +27,12 @@ urls:
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
-author_location: India
-author_website_url: "https://sujaykundu.com"
-typewrite-text: devlopr is a jekyll theme built for developers. You can edit this in _config.yml file
+author: Jun Soo Cho
+author_bio: This site is created only for improving my developing skills.
+author_email: "j082175@gmail.com"
+author_location: Korea
+author_website_url: "https://j082175.github.io"
+typewrite-text: CODE FUCKING HELL!
 
 # Experiences
 author_work_experiences:
