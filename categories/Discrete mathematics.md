@@ -1,7 +1,7 @@
---
+---
 layout: page
 title: Discrete mathematics
-permalink: /blog/categories/etc/
+permalink: /blog/categories/Discrete mathematics/
 ---
 
 <h5> Posts by Category : {{ page.title }} </h5>
